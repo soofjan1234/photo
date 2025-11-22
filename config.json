@@ -1,0 +1,14 @@
+{
+  "album_left": {
+    "name": "相册1",
+    "path": "assets/下沉广场 - 副本"
+  },
+  "album_middle": {
+    "name": "相册2",
+    "path": "assets/物业服务"
+  },
+  "album_right": {
+    "name": "相册3",
+    "path": "assets/生活配套"
+  }
+}
